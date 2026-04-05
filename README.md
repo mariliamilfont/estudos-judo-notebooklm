@@ -61,7 +61,22 @@ Nesta seção eu registro:
 - “Explique o Seoi-nage.”
 
 **Problema (“cicatriz”)**
-- Resposta superficial, pouco aplicável ao treino.
+- Resposta superficial, pouco aplicável ao treino:
+  
+O **Seoi-nage**, traduzido como *arremesso pelo ombro e braço* (ou “arremesso carregando nas costas”), é uma das técnicas mais importantes e fundamentais do Judô. É classificada como uma **Te-waza** (técnica de braço/mão) e faz parte da **primeira série (Dai Ikkyo)** do **Gokyo** (sistema oficial de classificação de projeções da Kodokan).
+
+**Princípio (visão geral)**
+- O princípio básico é **desequilibrar o oponente para a frente** (ou para a **diagonal frontal direita**), **posicioná-lo sobre as costas** e **arremessá-lo por cima do ombro**.
+
+**Variações principais**
+- **Morote Seoi-nage** (duas mãos): mantém pegada na **manga** e na **lapela**; o **cotovelo** do braço que segura a lapela entra sob a **axila** do oponente para “carregar”.
+- **Ippon Seoi-nage** (um braço e o ombro): o braço do oponente é segurado por dentro e “preso” contra o ombro do praticante. *(Observação: na listagem oficial da Kodokan, pode aparecer separado como parte do “extra gokyo”.)*
+- **Eri Seoi-nage** (ou **Eri Ippon Seoi-nage**): aplicado segurando a **lapela** (ou manga) do **lado contrário**.
+
+**Fases da execução (tríade clássica)**
+- **Kuzushi (desequilíbrio):** puxar o oponente para a frente/diagonal frontal direita, levando o peso para os **dedos dos pés**.
+- **Tsukuri (preparação/posicionamento):** girar o corpo para a esquerda, posicionando as **costas contra o peito** do adversário; dobrar os **joelhos** para baixar o centro de gravidade.
+- **Kake (finalização/arremesso):** esticar as pernas e curvar o corpo para a frente, puxando com as mãos para baixo para projetar o oponente sobre o ombro.
 
 **Versão 2 (melhorada)**
 - “Com base nas fontes do notebook, faça um resumo técnico do *Ippon Seoi-nage* com:
@@ -72,10 +87,48 @@ Nesta seção eu registro:
   5) variações seguras para treino.”
 
 **O que melhorou**
-- Estrutura consistente e foco em aplicação.
+- Estrutura consistente e foco em aplicação:
+  
+Com base nos fundamentos e manuais técnicos contidos nas fontes, o **Ippon Seoi-nage** (arremesso usando um braço e o ombro) é uma técnica de braço (**Te-waza**) essencial no Judô, classificada oficialmente como parte do **Extra Gokyo** da Kodokan e presente no **Nage-no-kata**.
 
-**Referências citadas pela IA**
-- (preencher depois: ex. “Fonte 2, seção X”, “Fonte 1, página Y”)
+Abaixo, o resumo técnico estruturado:
+
+1) **Objetivo da técnica**
+- Desequilibrar o oponente para a frente (ou diagonal frontal direita) e **posicioná-lo sobre as costas** para arremessá-lo por cima do **ombro direito**.
+
+2) **Pré-requisitos (kumi-kata e postura)**
+- **Postura (Shisei):** geralmente inicia em **Migi-shizentai** (postura natural à direita).
+- **Pegada (Kumi-kata):**
+  - Mão esquerda segura a parte interna da **manga direita** do oponente (*sode*).
+  - A mão direita pode começar na lapela, mas deve ser **liberada** para entrar sob a **axila** do adversário durante a entrada.
+
+3) **Etapas da execução (contínuas)**
+- **Kuzushi (desequilíbrio):**
+  - Puxar o oponente para a frente/diagonal frontal direita, forçando passo e levando o peso para a ponta dos pés.
+  - Pode haver uma ação de “provocar reação” (ex.: empurrar levemente para trás e puxar quando ele avança), dependendo do contexto.
+- **Tsukuri (posicionamento):**
+  - Girar o corpo para a esquerda (pivô), apoiando-se nos dedos do pé direito.
+  - Entrar o braço direito profundamente sob a axila direita do oponente, prendendo o braço dele contra o próprio ombro.
+  - Baixar o centro de gravidade flexionando joelhos e encostar as costas no peito do oponente.
+- **Kake (finalização):**
+  - Estender as pernas com vigor e curvar o corpo à frente, puxando a manga para baixo (movimento em arco) para projetar o oponente sobre o ombro.
+
+4) **Erros comuns e correções**
+- **Erro de inclinação:** não curvar o tronco o suficiente para a frente.
+  - **Consequência:** o peso do oponente pode cair sobre o cotovelo, aumentando risco de lesão.
+  - **Correção:** inclinar bem o tronco e puxar as mãos em direção ao solo.
+- **Entrada forçada do cotovelo:** tentar “enfiar” o cotovelo na axila sem o giro correto do pulso.
+  - **Correção:** o pulso deve girar naturalmente para dentro para facilitar o encaixe.
+- **Falta de controle pós-queda:** perder o equilíbrio após projetar.
+  - **Correção:** buscar estabilizar em **Jigo-hontai** após a projeção, mantendo domínio do braço do adversário.
+
+5) **Variações seguras para treino**
+- **Morote Seoi-nage:** mantém duas mãos no judogi (manga e lapela), com cotovelo sob a axila.
+- **Eri Seoi-nage (Eri Ippon Seoi-nage):** com pegada na lapela do lado contrário.
+- **Seoi-otoshi:** variação em que Tori ajoelha um ou ambos joelhos para baixar ainda mais o centro de gravidade no tsukuri.
+
+**Dica de treino**
+- É fundamental que Uke execute **ukemi** corretamente, pois a projeção pode ter impacto considerável.
 
 ---
 
@@ -117,7 +170,7 @@ Nesta seção eu registro:
 
 ---
 
-### 3.3 Padrões que eu aprendi (minhas “regras de ouro”)
+### 3.3 Padrões que eu aprendi
 - Pedir **estrutura** (itens numerados) melhora consistência.
 - Incluir **contexto de situação** (treino vs competição, iniciantes vs intermediário) aumenta utilidade.
 - Sempre pedir **referências** das fontes carregadas no NotebookLM.
@@ -127,7 +180,7 @@ Nesta seção eu registro:
 
 ## 4) Miniguia de Estudo (Entrega Final)
 
-### 4.1 Resumos estruturados (consolidado)
+### 4.1 Resumos estruturados
 
 #### Fundamentos essenciais (checklist)
 - **Postura (shisei)**: (preencher)
@@ -165,19 +218,21 @@ Nesta seção eu registro:
 
 ### 4.2 Glossário (principais conceitos)
 - **Judogi**: uniforme do judô.
+- **Tori**: quem aplica a técnica.
+- **Uke**: quem recebe a técnica.
 - **Kumi-kata**: disputa/estratégia de pegada.
 - **Kuzushi**: desequilíbrio do oponente.
 - **Tsukuri**: preparação/entrada da técnica.
 - **Kake**: execução final da técnica.
 - **Nage-waza**: técnicas de projeção.
 - **Ne-waza**: técnicas de solo.
+- **Te-waza**: técnica de braço ou mão.
 - **Osaekomi-waza**: imobilizações.
 - **Shime-waza**: estrangulamentos.
 - **Kansetsu-waza**: chaves de articulação.
+- **Renraku-waza**: técnicas combinadas.
 - **Randori**: treino livre.
 - **Shiai**: competição.
-
-> Observação: complete com termos específicos que aparecerem nas suas fontes.
 
 ---
 
@@ -205,15 +260,6 @@ Nesta seção eu registro:
 2. Rodar os prompts acima e salvar as melhores respostas.
 3. Atualizar as seções **Resumos**, **Glossário** e **Prompts reutilizáveis** com o que foi consolidado.
 4. Registrar novas “cicatrizes” sempre que um prompt falhar — isso faz parte do aprendizado.
-
----
-
-## Próximos Passos (Roadmap)
-- [ ] Inserir links definitivos das 3–5 fontes
-- [ ] Consolidar 6–10 técnicas (nage-waza) com estrutura padrão
-- [ ] Consolidar 4–6 tópicos de ne-waza
-- [ ] Criar uma seção de “Regras que impactam estratégia”
-- [ ] Adicionar um plano de estudo de 4 semanas (versão final)
 
 ---
 
