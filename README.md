@@ -182,37 +182,195 @@ Abaixo, o resumo técnico estruturado:
 
 ### 4.1 Resumos estruturados
 
-#### Fundamentos essenciais (checklist)
-- **Postura (shisei)**: (preencher)
-- **Pegada (kumi-kata)**: (preencher)
-- **Desequilíbrio (kuzushi)**: (preencher)
-- **Entrada (tsukuri)**: (preencher)
-- **Execução (kake)**: (preencher)
-- **Transições para o solo**: (preencher)
+#### Fundamentos essenciais (resumo + checklist)
 
-#### Nage-waza (exemplo de estrutura por técnica)
-> Repita este molde para as técnicas que você estudar.
+**1) Postura (Shisei) — resumo**
+- Objetivo: manter equilíbrio, mobilidade e prontidão para atacar/defender sem “entregar” o centro de gravidade.
+- Pontos-chave:
+  - Coluna alinhada e quadril “solto” (evitar rigidez).
+  - Base estável, com peso distribuído para permitir deslocamento imediato.
+  - Cabeça e olhar ativos (percepção de distância e timing).
 
+**Checklist — Postura (shisei)**
+- [ ] Minha base está estável (sem pés paralelos demais / sem “pé pesado”)  
+- [ ] Consigo avançar/recuar/lateralizar sem cruzar as pernas  
+- [ ] Meu centro de gravidade está baixo o suficiente para resistir a puxões  
+- [ ] Não estou inclinado excessivamente para frente/trás  
+- [ ] Mantenho postura mesmo sob disputa de pegada  
+
+**2) Pegada (Kumi-kata) — resumo**
+- Objetivo: criar **vantagem de alavancas** (controle de manga/lapela), limitar o ataque do adversário e abrir ângulos para kuzushi e entrada.
+- Pontos-chave:
+  - Não é “segurar forte”; é **segurar funcional** (mãos ativas, cotovelos bem posicionados).
+  - Buscar controlar **manga** para matar ataque e **lapela/colarinho** para orientar direção.
+  - A pegada deve conduzir ao próximo passo (kuzushi), e não existir “por si só”.
+
+**Checklist — Pegada (kumi-kata)**
+- [ ] Tenho um objetivo claro para a pegada (atacar qual técnica?)  
+- [ ] Estou controlando pelo menos uma manga de forma efetiva  
+- [ ] Minha pegada não me deixa quadrado(a) e sem mobilidade  
+- [ ] Estou vencendo a disputa de postura/cotovelos (não “abraçando” o oponente)  
+- [ ] Consigo alternar pegadas (plano A / plano B) sem travar o movimento  
+
+**3) Desequilíbrio (Kuzushi) — resumo**
+- Objetivo: deslocar o equilíbrio do oponente para um ponto onde ele tenha pouca capacidade de defesa/recuperação, facilitando o tsukuri e o kake.
+- Pontos-chave:
+  - Kuzushi é **direção + timing + reação** (não só puxar/empurrar).
+  - Criar reação: induzir passo, travar uma perna, ou manipular tronco/ombros pela pegada.
+  - Preferir desequilíbrios que alinhem com sua técnica-alvo (ex.: frente/diagonal para seoi; lateral/trás para técnicas de perna).
+
+**Checklist — Kuzushi**
+- [ ] Estou desequilibrando em uma direção compatível com a técnica que quero aplicar  
+- [ ] Estou provocando passo/reação (em vez de “forçar” sem resposta)  
+- [ ] Sinto o peso do oponente mudar (ponta do pé / calcanhar / lateral)  
+- [ ] Minha cabeça e tronco permanecem estáveis (não me desequilibro junto)  
+- [ ] O kuzushi acontece antes da entrada (não depois)  
+
+**4) Entrada (Tsukuri) — resumo**
+- Objetivo: posicionar corpo/quadril/braços de forma que o arremesso ou controle no solo se torne “natural” a partir do kuzushi criado.
+- Pontos-chave:
+  - Tsukuri deve ser **contínuo** (sem pausas entre kuzushi → entrada).
+  - Ajuste de distância: perto o suficiente para encaixar, longe o suficiente para manter mobilidade.
+  - Ângulo: entrar “no trilho” da técnica (não de frente quadrado(a) quando o ângulo pede diagonal/rotação).
+
+**Checklist — Tsukuri**
+- [ ] Minha entrada é contínua (sem duas etapas “travadas”)  
+- [ ] Estou com a distância correta (nem colado(a) demais, nem longe)  
+- [ ] Meus pés posicionam o quadril/ombros no ângulo certo  
+- [ ] Meus joelhos flexionam para baixar o centro de gravidade quando necessário  
+- [ ] Eu não perco a pegada/controle no meio da entrada  
+
+**5) Execução (Kake) — resumo**
+- Objetivo: finalizar a projeção (ou transição) com eficiência, mantendo controle e reduzindo risco de contra-ataque.
+- Pontos-chave:
+  - Kake é aceleração e finalização: **compromisso com a direção**.
+  - Mãos e tronco “terminam” o movimento (não largar o controle no final).
+  - Pós-técnica: recuperar base e já pensar na continuidade (imobilização / controle / retorno à postura).
+
+**Checklist — Kake**
+- [ ] Eu finalizo na direção certa (sem “meia força” ou mudança de rumo)  
+- [ ] Mantenho controle do braço/pegada durante a queda  
+- [ ] Consigo recuperar postura/base após a técnica  
+- [ ] Evito girar de forma que ofereça as costas sem controle  
+- [ ] Tenho uma continuação planejada (transição ou controle)  
+
+**6) Transições para o solo (Nage → Ne-waza) — resumo**
+- Objetivo: aproveitar o desequilíbrio/queda para estabelecer controle no chão (osaekomi) ou progredir para finalizações, antes que o oponente recupere a guarda/posição.
+- Pontos-chave:
+  - O melhor momento é “na queda”: não esperar estabilizar em pé para depois pensar no chão.
+  - Manter pelo menos um controle-chave: braço, cabeça, quadril, ou linha dos ombros.
+  - Priorizar posição dominante e estabilidade antes de buscar finalização.
+
+**Checklist — Transições**
+- [ ] Após o arremesso eu mantenho contato/controle (não “descolo”)  
+- [ ] Eu caio/ajoelho em posição que favorece controle (sem me expor)  
+- [ ] Tenho 1–2 transições padrão para cada técnica estudada  
+- [ ] Minha primeira meta no chão é estabilizar (controle)  
+- [ ] Sei quando parar e reiniciar (evitar “forçar” posição perdida)  
+
+---
+
+#### Nage-waza — resumos estruturados por técnica (modelos + exemplos)
+
+**Molde por técnica**
 **Técnica:** (ex.: O-soto-gari)  
 - Objetivo:
-- Quando usar:
-- Kuzushi:
-- Tsukuri:
-- Kake:
+- Quando usar (gatilhos):
+- Kuzushi (direção + como provocar):
+- Tsukuri (pés/quadril/ângulo):
+- Kake (finalização):
 - Erros comuns:
 - Ajustes/correções:
-- Combinações e continuação:
+- Combinações (renraku-waza) e continuação:
 - Contra-ataques comuns (e prevenção):
-- Referências nas fontes:
+- Segurança (ukemi / cuidado articular):
 
-#### Ne-waza (exemplo)
+---
+
+**Exemplo 1 — Ippon Seoi-nage (resumo operacional)**
+- Objetivo: projetar para a frente/diagonal, carregando o oponente no ombro com controle de um braço.
+- Quando usar (gatilhos):
+  - Oponente com postura mais alta ou avançando.
+  - Quando você consegue controlar uma manga e criar reação de passo para frente.
+- Kuzushi:
+  - Induzir avanço (provocar passo) e puxar para frente/diagonal, transferindo peso do uke.
+- Tsukuri:
+  - Giro e encaixe com costas no peito, braço entrando sob axila para “prender” o braço.
+  - Baixar o centro com flexão de joelhos, alinhando quadril/ombro.
+- Kake:
+  - Estender pernas e finalizar com tronco à frente e controle da manga.
+- Erros comuns:
+  - Entrar sem kuzushi real; cotovelo mal encaixado; tronco pouco inclinado.
+- Ajustes/correções:
+  - Trabalhar kuzushi em passo; enfatizar giro contínuo; terminar puxando para baixo e à frente.
+- Combinações e continuação:
+  - Seoi-nage → transição para controle no chão (estabilizar braço).
+- Contra-ataques comuns (e prevenção):
+  - Defesa com base baixa e travas na pegada; prevenir com kuzushi + timing (sem “forçar entrada parada”).
+- Segurança:
+  - Uke com ukemi consistente; não jogar “em cima do cotovelo”; controlar o final do movimento.
+    
+---
+
+**Exemplo 2 — O-soto-gari (resumo operacional)**
+- Objetivo: projetar para trás/lateral, reapando a perna do uke com controle do tronco.
+- Quando usar (gatilhos):
+  - Uke com peso na perna atacada ou recuando linearmente.
+  - Quando sua pegada consegue “abrir” o tronco do uke e travar recuperação.
+- Kuzushi:
+  - Direção para trás e levemente lateral, quebrando a postura e tirando o calcanhar do “chão forte”.
+- Tsukuri:
+  - Ajustar ângulo (não ficar quadrado), aproximar quadril e alinhar peito/ombros para dominar o eixo do uke.
+- Kake:
+  - Reapamento amplo e contínuo, com controle do tronco (não apenas “chutar a perna”).
+- Erros comuns:
+  - Atacar só a perna sem dominar o tronco; entrar longe; reapamento curto.
+- Ajustes/correções:
+  - Priorizar controle do tronco via pegadas; aproximar antes do reapamento; finalizar até o uke cair “limpo”.
+- Combinações e continuação:
+  - O-soto-gari → continuação para imobilização (passar para controle lateral, se encaixar).
+- Contra-ataques comuns (e prevenção):
+  - Contra com entrada por dentro (variações de inner reap) se você ficar quadrado(a); prevenir com ângulo e domínio do tronco.
+- Segurança:
+  - Cuidado com colisão de joelho; garantir que uke consiga cair com segurança.
+
+---
+
+#### Ne-waza — resumos estruturados por tema (modelos + exemplo)
+
+**Molde por tema**
 **Tema:** (ex.: Kesa-gatame e escapes)  
 - Princípio:
-- Pontos de controle:
+- Pontos de controle (o que não pode “soltar”):
+- Passo a passo (entrada → estabilização → progressão):
 - Erros comuns:
-- Escape 1 / Escape 2:
+- Escape 1 / Escape 2 (do uke) e como prevenir:
 - Transições:
-- Referências nas fontes:
+- Checklist (autoavaliação rápida):
+
+---
+
+**Exemplo — Osaekomi: Kesa-gatame (visão de estudo)**
+- Princípio: controlar cabeça/ombros e impedir que o uke recupere quadril e gire para dentro.
+- Pontos de controle:
+  - Pressão do tronco e controle da linha dos ombros.
+  - Controle de cabeça/braço (dependendo da variação estudada nas fontes).
+- Passo a passo:
+  - Entrada: chegar pela lateral após queda ou passagem.
+  - Estabilização: ajustar base (joelhos/pés) e distribuir peso para impedir ponte e giro.
+  - Progressão: procurar transições para outras imobilizações se o uke criar espaço.
+- Erros comuns:
+  - Ficar “alto(a)” e leve; base estreita; perder controle do braço.
+- Escapes (do uke) e prevenção:
+  - Escape por ponte e giro: prevenir com base aberta e ajuste de peso.
+  - Escape recuperando quadril/perna por dentro: prevenir bloqueando quadril e reencaixando pressão.
+- Transições:
+  - Kesa-gatame → variação de controle lateral / retomada de posição dominante.
+- Checklist:
+  - [ ] Base está aberta e estável
+  - [ ] Peso bem distribuído (não só nos braços)
+  - [ ] Quadril do uke está controlado (sem espaço)
+  - [ ] Tenho um plano de transição se ele começar a escapar
 
 ---
 
@@ -250,8 +408,8 @@ Abaixo, o resumo técnico estruturado:
 4. **Checklist pré-treino**
    - “Crie um checklist de 8 itens para eu revisar antes do treino com foco em **[tema]**. Use apenas as fontes.”
 
-5. **Perguntas para o professor**
-   - “Gere 5 perguntas objetivas para eu levar ao meu professor sobre **[técnica/tema]**, baseadas em dúvidas comuns e no que as fontes indicam.”
+5. **Perguntas para o sensei**
+   - “Gere 5 perguntas objetivas para eu levar ao meu sensei sobre **[técnica/tema]**, baseadas em dúvidas comuns e no que as fontes indicam.”
 
 ---
 
