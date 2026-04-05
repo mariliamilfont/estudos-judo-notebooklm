@@ -2,6 +2,8 @@
 
 Este repositório documenta a criação de um **caderno temático no NotebookLM** para apoiar meus estudos de **Judô**, organizando fontes abertas, registrando experimentos de prompts (incluindo erros e acertos) e consolidando um **miniguia final** para revisão e evolução contínua.
 
+**Link do NotebookLM:** https://notebooklm.google.com/notebook/82237795-a5a4-409b-9cd8-84ae614468b5
+
 ---
 
 ## 1) Contexto e Objetivos
